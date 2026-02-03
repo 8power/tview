@@ -3,8 +3,8 @@ package main
 import (
 	"strings"
 
-	"github.com/gdamore/tcell/v2"
-	"github.com/rivo/tview"
+	"github.com/8power/tcell/v2"
+	"github.com/8power/tview"
 )
 
 // 1,000 most common English words.

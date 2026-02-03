@@ -3,7 +3,7 @@ package tview
 import (
 	"sort"
 
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 	colorful "github.com/lucasb-eyer/go-colorful"
 )
 
@@ -459,7 +459,7 @@ func (t *tableDefaultContent) GetColumnCount() int {
 //
 // Use [Box.SetInputCapture] to override or modify keyboard input.
 //
-// See https://github.com/rivo/tview/wiki/Table for an example.
+// See https://github.com/8power/tview/wiki/Table for an example.
 type Table struct {
 	*Box
 

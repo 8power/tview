@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 )
 
 // listItem represents one item in a List.
@@ -37,7 +37,7 @@ type listItem struct {
 // to a list item. See [List.SetSelectedFunc] for a way to be notified when a
 // list item was selected.
 //
-// See https://github.com/rivo/tview/wiki/List for an example.
+// See https://github.com/8power/tview/wiki/List for an example.
 type List struct {
 	*Box
 

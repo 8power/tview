@@ -3,7 +3,7 @@ package tview
 import (
 	"math"
 
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 )
 
 // gridItem represents one primitive and its possible position on a grid.
@@ -27,7 +27,7 @@ type gridItem struct {
 // and "l" keys) while the grid has focus and none of its contained primitives
 // do.
 //
-// See https://github.com/rivo/tview/wiki/Grid for an example.
+// See https://github.com/8power/tview/wiki/Grid for an example.
 type Grid struct {
 	*Box
 

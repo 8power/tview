@@ -3,7 +3,7 @@ package tview
 import (
 	"image"
 
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 )
 
 var (
@@ -59,7 +59,7 @@ type FormItem interface {
 // Checkbox. These elements can be optionally followed by one or more buttons
 // for which you can define form-wide actions (e.g. Save, Clear, Cancel).
 //
-// See https://github.com/rivo/tview/wiki/Form for an example.
+// See https://github.com/8power/tview/wiki/Form for an example.
 type Form struct {
 	*Box
 

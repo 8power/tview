@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gdamore/tcell/v2"
-	"github.com/rivo/tview"
+	"github.com/8power/tcell/v2"
+	"github.com/8power/tview"
 )
 
 // Show a navigable tree view of the current directory.

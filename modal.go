@@ -1,14 +1,14 @@
 package tview
 
 import (
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 )
 
 // Modal is a centered message window used to inform the user or prompt them
 // for an immediate decision. It needs to have at least one button (added via
 // [Modal.AddButtons]) or it will never disappear.
 //
-// See https://github.com/rivo/tview/wiki/Modal for an example.
+// See https://github.com/8power/tview/wiki/Modal for an example.
 type Modal struct {
 	*Box
 

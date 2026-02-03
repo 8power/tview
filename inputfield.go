@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 	"github.com/rivo/uniseg"
 )
 
@@ -74,7 +74,7 @@ var (
 //   - Down arrow: Open the autocomplete drop-down.
 //   - Tab, Enter: Select the current autocomplete entry.
 //
-// See https://github.com/rivo/tview/wiki/InputField for an example.
+// See https://github.com/8power/tview/wiki/InputField for an example.
 type InputField struct {
 	*Box
 

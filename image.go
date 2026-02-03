@@ -4,7 +4,7 @@ import (
 	"image"
 	"math"
 
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 )
 
 // Types of dithering applied to images.

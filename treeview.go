@@ -1,7 +1,7 @@
 package tview
 
 import (
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 )
 
 // Tree navigation events.
@@ -295,7 +295,7 @@ func (n *TreeNode) GetLevel() int {
 // using SetPrefixes() for different levels, for example to display hierarchical
 // bullet point lists.
 //
-// See https://github.com/rivo/tview/wiki/TreeView for an example.
+// See https://github.com/8power/tview/wiki/TreeView for an example.
 type TreeView struct {
 	*Box
 

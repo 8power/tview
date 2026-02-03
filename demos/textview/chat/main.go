@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gdamore/tcell/v2"
-	"github.com/rivo/tview"
+	"github.com/8power/tcell/v2"
+	"github.com/8power/tview"
 )
 
 // MarkovChain implements a simple order of one Markov chain for text

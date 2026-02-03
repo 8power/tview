@@ -1,7 +1,7 @@
 package tview
 
 import (
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 )
 
 // frameText holds information about a line of text shown in the frame.
@@ -15,7 +15,7 @@ type frameText struct {
 // Frame is a wrapper which adds space around another primitive. In addition,
 // the top area (header) and the bottom area (footer) may also contain text.
 //
-// See https://github.com/rivo/tview/wiki/Frame for an example.
+// See https://github.com/8power/tview/wiki/Frame for an example.
 type Frame struct {
 	*Box
 

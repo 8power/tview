@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 	colorful "github.com/lucasb-eyer/go-colorful"
 )
 
@@ -149,7 +149,7 @@ func (w *batchWriter) focusChain(chain *[]Primitive) bool {
 // (using [TextView.SetScrollable]). This will cause the text view to discard
 // lines moving out of the visible area at the top.
 //
-// See https://github.com/rivo/tview/wiki/TextView for an example.
+// See https://github.com/8power/tview/wiki/TextView for an example.
 type TextView struct {
 	sync.Mutex
 	*Box

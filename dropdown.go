@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 )
 
 // dropDownOption is one option that can be selected in a drop-down primitive.
@@ -16,7 +16,7 @@ type dropDownOption struct {
 // DropDown implements a selection widget whose options become visible in a
 // drop-down list when activated.
 //
-// See https://github.com/rivo/tview/wiki/DropDown for an example.
+// See https://github.com/8power/tview/wiki/DropDown for an example.
 type DropDown struct {
 	*Box
 

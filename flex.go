@@ -1,7 +1,7 @@
 package tview
 
 import (
-	"github.com/gdamore/tcell/v2"
+	"github.com/8power/tcell/v2"
 )
 
 // Flex directions.
@@ -29,7 +29,7 @@ type flexItem struct {
 // distributed along that dimension depends on their layout settings, which is
 // either a fixed length or a proportional length. See AddItem() for details.
 //
-// See https://github.com/rivo/tview/wiki/Flex for an example.
+// See https://github.com/8power/tview/wiki/Flex for an example.
 type Flex struct {
 	*Box
 

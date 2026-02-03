@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/rivo/tview"
+	"github.com/8power/tview"
 )
 
 // The width of the code window.
