@@ -1,5 +1,5 @@
-github.com/8power/tcell/v2 v2.14.1 h1:FYFGH8vpyzXZHtGBUoW90UOe4B1E/wnM7DSUebli3bA=
-github.com/8power/tcell/v2 v2.14.1/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
+github.com/8power/tcell/v2 v2.14.2 h1:ZEuJoUD2mKunOXvGMGLStcXVmYRKlZlwGI3QJUnddXw=
+github.com/8power/tcell/v2 v2.14.2/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
 github.com/gdamore/encoding v1.0.1 h1:YzKZckdBL6jVt2Gc+5p82qhrGiqMdG/eNs6Wy0u3Uhw=
 github.com/gdamore/encoding v1.0.1/go.mod h1:0Z0cMFinngz9kS1QfMjCP8TY7em3bZYeeklsSDPivEo=
 github.com/lucasb-eyer/go-colorful v1.3.0 h1:2/yBRLdWBZKrf7gB40FoiKfAWYQ0lqNcbuQwVHXptag=
