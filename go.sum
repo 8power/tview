@@ -6,6 +6,8 @@ github.com/8power/tcell/v2 v2.14.4 h1:mL6fY/CUVlOqy256Z8TlDTqmkswTKCeopepsgw1Uep
 github.com/8power/tcell/v2 v2.14.4/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
 github.com/8power/tcell/v2 v2.14.5 h1:hDonWAAr4CDwa342PEHiIt2lVuRT5PMmEqgjhu3T/1k=
 github.com/8power/tcell/v2 v2.14.5/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
+github.com/8power/tcell/v2 v2.14.6 h1:tS9dQfbh8KrZ6HYEq7J4zACwownFL1n+QeP+Av2KhFA=
+github.com/8power/tcell/v2 v2.14.6/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
 github.com/gdamore/encoding v1.0.1 h1:YzKZckdBL6jVt2Gc+5p82qhrGiqMdG/eNs6Wy0u3Uhw=
 github.com/gdamore/encoding v1.0.1/go.mod h1:0Z0cMFinngz9kS1QfMjCP8TY7em3bZYeeklsSDPivEo=
 github.com/lucasb-eyer/go-colorful v1.3.0 h1:2/yBRLdWBZKrf7gB40FoiKfAWYQ0lqNcbuQwVHXptag=
