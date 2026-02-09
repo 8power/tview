@@ -16,8 +16,12 @@ github.com/8power/tcell/v2 v2.14.9 h1:FeIRL8fStOCTX0joV2Mn0wINdXpcwNGydzKdnH08bK
 github.com/8power/tcell/v2 v2.14.9/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
 github.com/8power/tcell/v2 v2.14.10 h1:fgOXpYjhQ6ttSjh9DJFZEii1hRn/5vVj7+USzMZkR9c=
 github.com/8power/tcell/v2 v2.14.10/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
+github.com/8power/tcell/v2 v2.14.11 h1:QG2wAIFa2Uo6ihZgvQ06UVQBMBLKVHr6C2AB4B0oOxQ=
+github.com/8power/tcell/v2 v2.14.11/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
 github.com/gdamore/encoding v1.0.1 h1:YzKZckdBL6jVt2Gc+5p82qhrGiqMdG/eNs6Wy0u3Uhw=
 github.com/gdamore/encoding v1.0.1/go.mod h1:0Z0cMFinngz9kS1QfMjCP8TY7em3bZYeeklsSDPivEo=
+github.com/google/martian v2.1.0+incompatible h1:/CP5g8u/VJHijgedC/Legn3BAbAaWPgecwXBIDzw5no=
+github.com/google/martian v2.1.0+incompatible/go.mod h1:9I4somxYTbIHy5NJKHRl3wXiIaQGbYVAs8BPL6v8lEs=
 github.com/lucasb-eyer/go-colorful v1.3.0 h1:2/yBRLdWBZKrf7gB40FoiKfAWYQ0lqNcbuQwVHXptag=
 github.com/lucasb-eyer/go-colorful v1.3.0/go.mod h1:R4dSotOR9KMtayYi1e77YzuveK+i7ruzyGqttikkLy0=
 github.com/rivo/uniseg v0.4.7 h1:WUdvkW8uEhrYfLC4ZzdpI2ztxP1I582+49Oc5Mq64VQ=
