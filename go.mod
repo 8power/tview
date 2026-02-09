@@ -5,7 +5,7 @@ go 1.24.0
 toolchain go1.24.6
 
 require (
-	github.com/8power/tcell/v2 v2.14.6
+	github.com/8power/tcell/v2 v2.14.7
 	github.com/lucasb-eyer/go-colorful v1.3.0
 	github.com/rivo/uniseg v0.4.7
 )
