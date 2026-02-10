@@ -24,6 +24,8 @@ github.com/8power/tcell/v2 v2.14.14 h1:Ko/XGjsHC6isHrxqC+gDTYzxRLxBjz1YFAu24NbAl
 github.com/8power/tcell/v2 v2.14.14/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
 github.com/8power/tcell/v2 v2.14.15 h1:xX3Gkx8q+Czs1BmCml1ct3zTnMlhu+Onl7ua+UQrfIs=
 github.com/8power/tcell/v2 v2.14.15/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
+github.com/8power/tcell/v2 v2.14.16 h1:8h/WEMm6aknjDU4xqnXJuuNy4x20+1tvTXwBYzU3E2U=
+github.com/8power/tcell/v2 v2.14.16/go.mod h1:byoKC0FilK6c4mkh4IHKj9jWFIMU8yy9GwrGmSc+1UQ=
 github.com/gdamore/encoding v1.0.1 h1:YzKZckdBL6jVt2Gc+5p82qhrGiqMdG/eNs6Wy0u3Uhw=
 github.com/gdamore/encoding v1.0.1/go.mod h1:0Z0cMFinngz9kS1QfMjCP8TY7em3bZYeeklsSDPivEo=
 github.com/google/martian v2.1.0+incompatible h1:/CP5g8u/VJHijgedC/Legn3BAbAaWPgecwXBIDzw5no=
